@@ -1,5 +1,5 @@
-def ruban(x,y):
+def ruban(x, y):
     sum = x+y
     return sum
 
-print((ruban(100, 200)
+print((ruban(100, 200))
